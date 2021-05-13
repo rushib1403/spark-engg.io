@@ -18,3 +18,25 @@ label{
 	font-size: 2rem;
 	font-family: 'Crimson Text', serif;
 }
+a{
+  color:white;
+}
+.btn{
+  font-size: 1.5rem;	
+  font-weight: 200;
+ 
+}
+
+.btn-xl{
+  padding: 1rem 2rem;
+}
+.btn-primary{
+   background-color:#F81004;
+   background-color:#F81004;
+   
+   border-color:red;
+}
+.btn-primary:hover{
+   background-color: #ee4b08;
+   border-color:#ee4b08;
+   border-width:2px;}
